@@ -1,0 +1,7 @@
+1. Tìm hiểu sự khác biệt giữa R và RN
+
+- R là library JS dành cho ứng dụng web
+- R sử dụng virtual DOM để tối ưu hóa cập nhật giao diện
+
+- RN là fw dùng để phát triển ứng dụng mobile
+- RN sử dụng các native component như View, Text thay vì các thành phần HTML
